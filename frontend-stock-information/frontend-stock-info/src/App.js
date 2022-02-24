@@ -6,7 +6,8 @@ function App() {
   return (
     <div className="App">
       <h1>Stock Ticker Information</h1>
-      <JsonDataDisplay/>
+      <h2>For Apple</h2>
+      <JsonDataDisplay></JsonDataDisplay>
     </div>
   );
 }
