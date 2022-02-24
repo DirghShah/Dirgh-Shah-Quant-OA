@@ -1,0 +1,63 @@
+[
+    {
+        "currency": "USD",
+        "symbol": "AAPL",
+        "exchangeName": "NMS",
+        "instrumentType": "EQUITY",
+        "firstTradeDate": 345479400,
+        "regularMarketTime": 1645650002,
+        "gmtoffset": -18000,
+        "timezone": "EST",
+        "exchangeTimezoneName": "America/New_York",
+        "regularMarketPrice": 160.07,
+        "chartPreviousClose": 164.32,
+        "previousClose": 164.32,
+        "scale": 3,
+        "priceHint": 2,
+        "currentTradingPeriod": {
+            "pre": {
+                "timezone": "EST",
+                "start": 1645606800,
+                "end": 1645626600,
+                "gmtoffset": -18000
+            },
+            "regular": {
+                "timezone": "EST",
+                "start": 1645626600,
+                "end": 1645650000,
+                "gmtoffset": -18000
+            },
+            "post": {
+                "timezone": "EST",
+                "start": 1645650000,
+                "end": 1645664400,
+                "gmtoffset": -18000
+            }
+        },
+        "tradingPeriods": [
+            [
+                {
+                    "timezone": "EST",
+                    "start": 1645626600,
+                    "end": 1645650000,
+                    "gmtoffset": -18000
+                }
+            ]
+        ],
+        "dataGranularity": "1m",
+        "range": "1d",
+        "validRanges": [
+            "1d",
+            "5d",
+            "1mo",
+            "3mo",
+            "6mo",
+            "1y",
+            "2y",
+            "5y",
+            "10y",
+            "ytd",
+            "max"
+        ]
+    }
+]
